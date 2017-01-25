@@ -1,5 +1,10 @@
 # notes
 
+## Faster javascript
+
+### fastest conditionals
+* http://archive.oreilly.com/pub/a/server-administration/excerpts/even-faster-websites/writing-efficient-javascript.html#the_fastest_conditionals
+
 
 ## Installing node.js on centOS
 
