@@ -1,5 +1,8 @@
 # notes
 
+## D3 Plugin Development with NPM
+* My tutorial: https://github.com/KristinHenry/learning-d3.v4/tree/master/tutorial-start-with-plugin-src
+
 ## Faster javascript
 
 ### fastest conditionals
